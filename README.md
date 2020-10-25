@@ -28,4 +28,4 @@
 # Personal Interests
 - Avid runner, aspiring triathlete, and former collegiate varsity cross country, and track and field athlete at Carnegie Mellon University
 - Music fanatic, particularly Jazz, R&B, and Hip-Hop
-- Natural Language Processing, Statistical Learning, Time Series Analysis, Web Development, and Fixed Income Markets.
+- Natural Language Processing, Statistical Learning, Time Series Analysis, Web Development, and Fixed Income Markets
