@@ -10,7 +10,7 @@
 - Tools: Node.JS, HTML, CSS, Python – Pandas, NumPy, Matplotlib, Scikit-Learn
 - [Site](https://spotify-rapper.herokuapp.com/), [Github](https://github.com/kev-bot-studios/Spotify-Rapper)
 
-![](https://github.com/kev-bot-studios/Personal_Website/blob/main/Images/SpotifyRapper.png)
+![](/Images/SpotifyRapper.png)
 
 
 # [NBA Dashboard](https://nba-dashboardz.herokuapp.com/)
@@ -19,4 +19,4 @@
 -	Tools:  Python - Dash, Pandas, NumPy, Matplotlib, Seaborn
 - [Site](https://nba-dashboardz.herokuapp.com/), [Github](https://github.com/kev-bot-studios/NBA) 
 
-![](https://github.com/kev-bot-studios/Personal_Website/blob/main/Images/NBADash.png)
+![](/Images/NBADash.png)
