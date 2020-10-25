@@ -4,7 +4,7 @@
 
 # Resume
 
-![Resume](/Images/kcory%20resume%202020.pdf)
+[Resume](https://github.com/kev-bot-studios/Personal_Website/blob/main/Images/kcory%20resume%202020.pdf)
 
 # Personal Projects
 
