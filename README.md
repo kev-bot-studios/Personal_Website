@@ -4,7 +4,7 @@
 
 # Resume
 
-[Resume](/Images/kcory%20resume%202020.pdf)
+![Resume](/Images/kcory%20resume%202020.pdf)
 
 # Personal Projects
 
