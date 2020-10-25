@@ -4,7 +4,7 @@
 
 # Resume
 
-[Resume](https://spotify-rapper.herokuapp.com/)
+[Resume](/Images/kcory%20resume%202020.pdf)
 
 # Personal Projects
 
